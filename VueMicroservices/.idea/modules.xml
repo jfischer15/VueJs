@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmployeeMicroservice/EmployeeMicroservice.iml" filepath="$PROJECT_DIR$/EmployeeMicroservice/EmployeeMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceMicroservice/ServiceMicroservice.iml" filepath="$PROJECT_DIR$/ServiceMicroservice/ServiceMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VueMicroservices.iml" filepath="$PROJECT_DIR$/.idea/VueMicroservices.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,3 +1,3 @@
 # VueJS
  DBI - Projekt
-Punkteverteilung: 
+ Punkteverteilung: 
